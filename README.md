@@ -1,5 +1,5 @@
 # Tempo Plugin Client Side Events
-​## How to Use These Events
+## How to Use These Events
 These events are emitted using the [trigger](https://docs.atlassian.com/aui/7.7.6/docs/trigger.html) element from the `aui-kit`.
 ​
 You can listen for the following events by using
@@ -9,7 +9,6 @@ You can listen for the following events by using
         // What you want to do when this event is triggered
     })
 ```
-​
 ## Current List of Available Events
 ### Log Work Form
 - `logWorkOpened`
